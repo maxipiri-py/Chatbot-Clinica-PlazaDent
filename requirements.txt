@@ -1,0 +1,14 @@
+# Ingeniería de Soluciones con Inteligencia Artificial
+# Dependencias mínimas para ejercicios básicos (compatible con Python 3.14)
+
+# --- LLMs y APIs ---
+openai>=1.0.0
+
+# --- Utilidades básicas ---
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+requests>=2.31.0
+
+# --- Jupyter ---
+jupyter>=1.0.0
+ipykernel>=6.0.0
