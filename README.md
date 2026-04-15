@@ -3,3 +3,4 @@
 3.	Objetivos de la intervención: Realizar un chatbot de inteligencia artificial para responder a los pacientes y para orientarlos y realizar reservas en la agenda de acorde a sus necesidades.
 4.	Datos: Tratamientos odontológicos, horarios de atención, ubicación de la clínica y valores de evaluaciones y especialidades.
 5.	Uso de IA: Se tendría que realizar un modelo de chatbot para responder a los pacientes, realizando preguntas precisas e integrar un modelo de recuperación de datos para poder consultar datos internos y poder entregar respuestas precisas 
+ 

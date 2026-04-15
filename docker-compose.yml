@@ -1,0 +1,21 @@
+# Jupyter Lab con el mismo entorno que `uv sync` (Linux en contenedor).
+# El volumen `ingenieria-ia-venv` evita escribir un .venv de Linux en el disco del host (útil en Windows/macOS).
+
+services:
+  jupyter:
+    build: .
+    image: ingenieria-soluciones-ia-jupyter:local
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/workspace
+      - ingenieria-ia-venv:/workspace/.venv
+    working_dir: /workspace
+    environment:
+      MPLCONFIGDIR: /tmp/matplotlib
+    # Crea `.env` antes (p. ej. cp .env.example .env); puede tener valores vacíos solo para abrir Jupyter.
+    env_file:
+      - .env
+
+volumes:
+  ingenieria-ia-venv:
