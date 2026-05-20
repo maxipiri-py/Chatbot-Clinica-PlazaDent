@@ -1,0 +1,152 @@
+{
+  "2026-05-25": {
+    "09:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:00": {
+      "estado": "ocupado",
+      "paciente": "Maria Gomez"
+    },
+    "11:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:00": {
+      "estado": "ocupado",
+      "paciente": "Carlos Perez"
+    },
+    "15:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:00": {
+      "estado": "ocupado",
+      "paciente": "Lucia Fernandez"
+    }
+  },
+  "2026-05-26": {
+    "09:00": {
+      "estado": "ocupado",
+      "paciente": "Jose Martinez"
+    },
+    "10:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "11:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:00": {
+      "estado": "ocupado",
+      "paciente": "Ana Rojas"
+    },
+    "16:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:00": {
+      "estado": "disponible",
+      "paciente": null
+    }
+  },
+  "2026-05-27": {
+    "09:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "11:00": {
+      "estado": "ocupado",
+      "paciente": "Diego Silva"
+    },
+    "12:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:00": {
+      "estado": "ocupado",
+      "paciente": "Patricia Toro"
+    },
+    "17:00": {
+      "estado": "disponible",
+      "paciente": null
+    }
+  },
+  "2026-05-28": {
+    "09:00": {
+      "estado": "ocupado",
+      "paciente": "Andres Castro"
+    },
+    "10:00": {
+      "estado": "ocupado",
+      "paciente": "Elena Rivas"
+    },
+    "11:00": {
+      "estado": "ocupado",
+      "paciente": "Roberto Diaz"
+    },
+    "12:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:00": {
+      "estado": "ocupado",
+      "paciente": "Claudio Valdes"
+    }
+  },
+  "2026-05-29": {
+    "09:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "11:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:00": {
+      "estado": "ocupado",
+      "paciente": "Ignacio Vera"
+    },
+    "15:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:00": {
+      "estado": "disponible",
+      "paciente": null
+    }
+  }
+}
