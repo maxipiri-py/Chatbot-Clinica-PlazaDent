@@ -4,7 +4,31 @@
       "estado": "disponible",
       "paciente": null
     },
+    "09:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "09:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "09:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "10:00": {
+      "estado": "ocupado",
+      "paciente": "Maria Gomez"
+    },
+    "10:15": {
+      "estado": "ocupado",
+      "paciente": "Maria Gomez"
+    },
+    "10:30": {
+      "estado": "ocupado",
+      "paciente": "Maria Gomez"
+    },
+    "10:45": {
       "estado": "ocupado",
       "paciente": "Maria Gomez"
     },
@@ -12,11 +36,79 @@
       "estado": "disponible",
       "paciente": null
     },
+    "11:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "11:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "11:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "12:00": {
       "estado": "ocupado",
       "paciente": "Carlos Perez"
     },
+    "12:15": {
+      "estado": "ocupado",
+      "paciente": "Carlos Perez"
+    },
+    "12:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "15:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:45": {
       "estado": "disponible",
       "paciente": null
     },
@@ -24,9 +116,49 @@
       "estado": "disponible",
       "paciente": null
     },
+    "16:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "17:00": {
-      "estado": "ocupado",
-      "paciente": "Lucia Fernandez"
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:45": {
+      "estado": "disponible",
+      "paciente": null
     }
   },
   "2026-05-26": {
@@ -34,7 +166,31 @@
       "estado": "ocupado",
       "paciente": "Jose Martinez"
     },
+    "09:15": {
+      "estado": "ocupado",
+      "paciente": "Jose Martinez"
+    },
+    "09:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "09:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "10:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:45": {
       "estado": "disponible",
       "paciente": null
     },
@@ -42,7 +198,63 @@
       "estado": "disponible",
       "paciente": null
     },
+    "11:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "11:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "11:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "12:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:45": {
       "estado": "disponible",
       "paciente": null
     },
@@ -50,11 +262,63 @@
       "estado": "ocupado",
       "paciente": "Ana Rojas"
     },
+    "15:15": {
+      "estado": "ocupado",
+      "paciente": "Ana Rojas"
+    },
+    "15:30": {
+      "estado": "ocupado",
+      "paciente": "Ana Rojas"
+    },
+    "15:45": {
+      "estado": "ocupado",
+      "paciente": "Ana Rojas"
+    },
     "16:00": {
       "estado": "disponible",
       "paciente": null
     },
+    "16:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "17:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:45": {
       "estado": "disponible",
       "paciente": null
     }
@@ -64,7 +328,31 @@
       "estado": "disponible",
       "paciente": null
     },
+    "09:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "09:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "09:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "10:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:45": {
       "estado": "disponible",
       "paciente": null
     },
@@ -72,7 +360,63 @@
       "estado": "ocupado",
       "paciente": "Diego Silva"
     },
+    "11:15": {
+      "estado": "ocupado",
+      "paciente": "Diego Silva"
+    },
+    "11:30": {
+      "estado": "ocupado",
+      "paciente": "Diego Silva"
+    },
+    "11:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "12:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:45": {
       "estado": "disponible",
       "paciente": null
     },
@@ -80,11 +424,63 @@
       "estado": "disponible",
       "paciente": null
     },
+    "15:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "16:00": {
-      "estado": "ocupado",
-      "paciente": "Patricia Toro"
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:45": {
+      "estado": "disponible",
+      "paciente": null
     },
     "17:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:45": {
       "estado": "disponible",
       "paciente": null
     }
@@ -94,15 +490,95 @@
       "estado": "ocupado",
       "paciente": "Andres Castro"
     },
+    "09:15": {
+      "estado": "ocupado",
+      "paciente": "Andres Castro"
+    },
+    "09:30": {
+      "estado": "ocupado",
+      "paciente": "Andres Castro"
+    },
+    "09:45": {
+      "estado": "ocupado",
+      "paciente": "Andres Castro"
+    },
     "10:00": {
+      "estado": "ocupado",
+      "paciente": "Andres Castro"
+    },
+    "10:15": {
+      "estado": "ocupado",
+      "paciente": "Andres Castro"
+    },
+    "10:30": {
+      "estado": "ocupado",
+      "paciente": "Elena Rivas"
+    },
+    "10:45": {
       "estado": "ocupado",
       "paciente": "Elena Rivas"
     },
     "11:00": {
       "estado": "ocupado",
-      "paciente": "Roberto Diaz"
+      "paciente": "Elena Rivas"
+    },
+    "11:15": {
+      "estado": "ocupado",
+      "paciente": "Elena Rivas"
+    },
+    "11:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "11:45": {
+      "estado": "disponible",
+      "paciente": null
     },
     "12:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:45": {
       "estado": "disponible",
       "paciente": null
     },
@@ -110,13 +586,65 @@
       "estado": "disponible",
       "paciente": null
     },
+    "15:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "16:00": {
       "estado": "disponible",
       "paciente": null
     },
+    "16:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "17:00": {
-      "estado": "ocupado",
-      "paciente": "Claudio Valdes"
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:45": {
+      "estado": "disponible",
+      "paciente": null
     }
   },
   "2026-05-29": {
@@ -124,7 +652,31 @@
       "estado": "disponible",
       "paciente": null
     },
+    "09:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "09:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "09:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "10:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "10:45": {
       "estado": "disponible",
       "paciente": null
     },
@@ -132,11 +684,79 @@
       "estado": "disponible",
       "paciente": null
     },
+    "11:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "11:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "11:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "12:00": {
-      "estado": "ocupado",
-      "paciente": "Ignacio Vera"
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "12:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "13:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "14:45": {
+      "estado": "disponible",
+      "paciente": null
     },
     "15:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "15:45": {
       "estado": "disponible",
       "paciente": null
     },
@@ -144,7 +764,47 @@
       "estado": "disponible",
       "paciente": null
     },
+    "16:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "16:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
     "17:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "17:45": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:00": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:15": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:30": {
+      "estado": "disponible",
+      "paciente": null
+    },
+    "18:45": {
       "estado": "disponible",
       "paciente": null
     }
